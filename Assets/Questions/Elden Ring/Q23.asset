@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 26351ca544675418497b2c822356a8b5, type: 3}
   m_Name: Q23
   m_EditorClassIdentifier: 
-  question: Enter your question here!
+  question: Why is Caelid covered in scarlet rot?
   answers:
-  - 
-  - 
-  - 
-  - 
+  - Malenia unleashed it upon the land during her battle against Radahn
+  - Marika cursed the land after Radahn went to war against her
+  - Radahn accidentally unleashed it upon the land when returning from battle
+  - After The Shattering, rot began to consume Caelid without reason
   correctAnswerIndex: 0

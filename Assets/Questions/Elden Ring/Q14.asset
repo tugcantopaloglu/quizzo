@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 26351ca544675418497b2c822356a8b5, type: 3}
   m_Name: Q14
   m_EditorClassIdentifier: 
-  question: Enter your question here!
+  question: What is the only known cure for frenzy in the game?
   answers:
-  - 
-  - 
-  - 
-  - 
-  correctAnswerIndex: 0
+  - Holy Water
+  - Rennala's Remedy
+  - Blood Ministration
+  - Miquella's Needle
+  correctAnswerIndex: 3

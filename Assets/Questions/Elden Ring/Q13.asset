@@ -12,10 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 26351ca544675418497b2c822356a8b5, type: 3}
   m_Name: Q13
   m_EditorClassIdentifier: 
-  question: Enter your question here!
+  question: Which of these characters is not closely associated with an Elden Ring
+    ending?
   answers:
-  - 
-  - 
-  - 
-  - 
-  correctAnswerIndex: 0
+  - Dung Eater
+  - Fia the Deathbed Companion
+  - Sorcerer Rogier
+  - Lunar Princess Rani
+  correctAnswerIndex: 2

@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 26351ca544675418497b2c822356a8b5, type: 3}
   m_Name: Q25
   m_EditorClassIdentifier: 
-  question: Enter your question here!
+  question: Which two characters are not the same person?
   answers:
-  - 
-  - 
-  - 
-  - 
-  correctAnswerIndex: 0
+  - Radagon and Marika
+  - Ranni and Rennala
+  - Godfrey and Hoarah Loux
+  - Ranni and Renna
+  correctAnswerIndex: 1

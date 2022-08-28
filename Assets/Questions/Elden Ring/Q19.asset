@@ -12,10 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 26351ca544675418497b2c822356a8b5, type: 3}
   m_Name: Q19
   m_EditorClassIdentifier: 
-  question: Enter your question here!
+  question: Why is Marika called Marika the Eternal?
   answers:
-  - 
-  - 
-  - 
-  - 
+  - She rid the world of destined death.
+  - She has always lived and cannot die.
+  - She carries the rune of death, doling out death to others while remaining immortal
+    herself.
+  - She absorbs the spirits of the dead, allowing her to live forever.
   correctAnswerIndex: 0

@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 26351ca544675418497b2c822356a8b5, type: 3}
   m_Name: Q27
   m_EditorClassIdentifier: 
-  question: Enter your question here!
+  question: Which is not true about the Black Knife Assassins?
   answers:
-  - 
-  - 
-  - 
-  - 
-  correctAnswerIndex: 0
+  - They are of the Numen race, same as Marika
+  - They are responsible for the death of Godwyn the Golden
+  - They carry out the bidding of the Three Fingers
+  - They are a group of entirely women
+  correctAnswerIndex: 2

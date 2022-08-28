@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 26351ca544675418497b2c822356a8b5, type: 3}
   m_Name: Q12
   m_EditorClassIdentifier: 
-  question: Enter your question here!
+  question: Who shattered the Elden Ring?
   answers:
-  - 
-  - 
-  - 
-  - 
-  correctAnswerIndex: 0
+  - Godfrey, The First Elden Lord
+  - Marika the Eternal
+  - Radagon, The Second Elden Lord
+  - Rennala, Queen of the Full Moon
+  correctAnswerIndex: 1

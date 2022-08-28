@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 26351ca544675418497b2c822356a8b5, type: 3}
   m_Name: Q22
   m_EditorClassIdentifier: 
-  question: Enter your question here!
+  question: What was the name of Godfrey's elite group of soldiers?
   answers:
-  - 
-  - 
-  - 
-  - 
-  correctAnswerIndex: 0
+  - The Godskin
+  - The Crucible Knights
+  - The Black Blades
+  - The Golden Order
+  correctAnswerIndex: 1

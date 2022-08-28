@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 26351ca544675418497b2c822356a8b5, type: 3}
   m_Name: Q30
   m_EditorClassIdentifier: 
-  question: Enter your question here!
+  question: What effect does the Shabriri's Woe talisman have on the player?
   answers:
-  - 
-  - 
-  - 
-  - 
-  correctAnswerIndex: 0
+  - Applies Madness build-up to all your attacks.
+  - Increases your resistance to Madness
+  - Lowers your resistance to Madness
+  - Increases all enemies' aggression towards you
+  correctAnswerIndex: 3

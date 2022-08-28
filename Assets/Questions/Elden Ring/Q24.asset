@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 26351ca544675418497b2c822356a8b5, type: 3}
   m_Name: Q24
   m_EditorClassIdentifier: 
-  question: Enter your question here!
+  question: What is inside Rennala the Queen of the Full Moon's amber egg?
   answers:
-  - 
-  - 
-  - 
-  - 
-  correctAnswerIndex: 0
+  - A Fragment of the Rune of Death
+  - The Great Rune of the Unchaning
+  - The Primordial Glintstone Fragment
+  - The Great Rune of the Unborn
+  correctAnswerIndex: 3
