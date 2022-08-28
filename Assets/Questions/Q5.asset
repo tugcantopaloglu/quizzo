@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   question: Who is not a son of Godfrey?
   answers:
-  - 
-  - 
-  - 
-  - 
+  - Mohg
+  - Morgott
+  - Godwyn
+  - Miquella
   correctAnswerIndex: 0

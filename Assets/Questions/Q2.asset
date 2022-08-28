@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   question: Which is not a Prattling Pate item?
   answers:
-  - 
-  - 
-  - 
-  - 
+  - Congratulations
+  - 'Let''s get to it '
+  - 'My beloved '
+  - Wonderful
   correctAnswerIndex: 0

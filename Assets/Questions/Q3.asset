@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   question: Which NPC transforms at the end of their questline?
   answers:
-  - 
-  - 
-  - 
-  - 
-  correctAnswerIndex: 0
+  - Gold Mask
+  - Millicent
+  - Seluvis
+  - Sellen
+  correctAnswerIndex: 3

@@ -10,12 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 26351ca544675418497b2c822356a8b5, type: 3}
-  m_Name: Q1
+  m_Name: Q9
   m_EditorClassIdentifier: 
-  question: Who grants the Mending Rune of the Death-Prince?
+  question: Which Divine Tower is not needed to activate a Great Rune?
   answers:
-  - Brother Corhyn
-  - Dung Eater
-  - Fia
-  - Goldmask
+  - Divine Tower of West Altus
+  - Isolated Divine Tower
+  - Divine Tower of Liurnia
+  - Divine Tower of East Altus
   correctAnswerIndex: 2

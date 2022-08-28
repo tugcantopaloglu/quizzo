@@ -15,8 +15,8 @@ MonoBehaviour:
   question: Which container type has more different craftable items for it than you
     can hold?
   answers:
-  - 
-  - 
-  - 
-  - 
-  correctAnswerIndex: 0
+  - Cracked Pot
+  - Ritual Pot
+  - Perfume Bottle
+  - none
+  correctAnswerIndex: 1

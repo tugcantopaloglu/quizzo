@@ -10,12 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 26351ca544675418497b2c822356a8b5, type: 3}
-  m_Name: Q1
+  m_Name: Q8
   m_EditorClassIdentifier: 
-  question: Who grants the Mending Rune of the Death-Prince?
+  question: What is the heaviest shield?
   answers:
-  - Brother Corhyn
-  - Dung Eater
-  - Fia
-  - Goldmask
-  correctAnswerIndex: 2
+  - One-Eyed Shield
+  - Visage Shield
+  - Haligtree Crest Greatshield
+  - Fingerprint Stone Shield
+  correctAnswerIndex: 3
