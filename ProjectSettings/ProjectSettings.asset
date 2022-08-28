@@ -12,7 +12,7 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: DefaultCompany
+  companyName: "Tu\u011Fcan Topalo\u011Flu (2HP)"
   productName: Quizzo
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
