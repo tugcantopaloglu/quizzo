@@ -136,8 +136,8 @@ public class Quiz : MonoBehaviour
         }
         else
         {
-            questionText.text = "Correct answer was: " + currentQuestion.GetAnswer(correctAnswerIndex);
-            buttonImage = answerButtons[correctAnswerIndex].GetComponent<Image>();
+            questionText.text = "Correct answer was: " + currentQuestion.GetAnswer(currentQuestion.GetCorrectAnswerIndex());
+            buttonImage = answerButtons[currentQuestion.GetCorrectAnswerIndex()].GetComponent<Image>();
             buttonImage.sprite = correctAnswerSprite;
         }
     }
