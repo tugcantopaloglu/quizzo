@@ -123,7 +123,6 @@ public class Quiz : MonoBehaviour
             buttonImage.sprite = defaultAnswerSprite;
         }
     }
-    //TODO: Burada yanlış seçenek seçilirse gösterilen doğru seçenek her zaman 1. seçenek oluyor bunu düzeltmeliyiz.
     void DisplayAnswer(int index)
     {
         Image buttonImage;
