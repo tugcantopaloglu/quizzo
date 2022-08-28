@@ -204,11 +204,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7241379808882959684, guid: c7f2f6968df5d4bb586d41fc72311d7c, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 1707.564
+      value: 1561
       objectReference: {fileID: 0}
     - target: {fileID: 7241379808882959684, guid: c7f2f6968df5d4bb586d41fc72311d7c, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -895
+      value: -186
       objectReference: {fileID: 0}
     - target: {fileID: 7241379808882959684, guid: c7f2f6968df5d4bb586d41fc72311d7c, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -588,6 +588,26 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5153499054727755171, guid: cfbb67eee73ad4b91bf987de26751659, type: 3}
+      propertyPath: m_fontSize
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 5153499054727755171, guid: cfbb67eee73ad4b91bf987de26751659, type: 3}
+      propertyPath: m_fontSizeMax
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 5153499054727755171, guid: cfbb67eee73ad4b91bf987de26751659, type: 3}
+      propertyPath: m_fontSizeMin
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5153499054727755171, guid: cfbb67eee73ad4b91bf987de26751659, type: 3}
+      propertyPath: m_enableAutoSizing
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5153499054727755171, guid: cfbb67eee73ad4b91bf987de26751659, type: 3}
+      propertyPath: m_enableWordWrapping
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5576202519566661183, guid: cfbb67eee73ad4b91bf987de26751659, type: 3}
       propertyPath: m_Name
       value: Button (2)
@@ -800,6 +820,26 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4553947945773634391, guid: cfbb67eee73ad4b91bf987de26751659, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5153499054727755171, guid: cfbb67eee73ad4b91bf987de26751659, type: 3}
+      propertyPath: m_fontSize
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 5153499054727755171, guid: cfbb67eee73ad4b91bf987de26751659, type: 3}
+      propertyPath: m_fontSizeMax
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 5153499054727755171, guid: cfbb67eee73ad4b91bf987de26751659, type: 3}
+      propertyPath: m_fontSizeMin
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5153499054727755171, guid: cfbb67eee73ad4b91bf987de26751659, type: 3}
+      propertyPath: m_enableAutoSizing
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5153499054727755171, guid: cfbb67eee73ad4b91bf987de26751659, type: 3}
+      propertyPath: m_enableWordWrapping
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5576202519566661183, guid: cfbb67eee73ad4b91bf987de26751659, type: 3}
@@ -1374,7 +1414,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: -180}
-  m_SizeDelta: {x: 1200, y: 430}
+  m_SizeDelta: {x: 1600, y: 430}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &605759126
 MonoBehaviour:
@@ -2842,6 +2882,26 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5153499054727755171, guid: cfbb67eee73ad4b91bf987de26751659, type: 3}
+      propertyPath: m_fontSize
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 5153499054727755171, guid: cfbb67eee73ad4b91bf987de26751659, type: 3}
+      propertyPath: m_fontSizeMax
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 5153499054727755171, guid: cfbb67eee73ad4b91bf987de26751659, type: 3}
+      propertyPath: m_fontSizeMin
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5153499054727755171, guid: cfbb67eee73ad4b91bf987de26751659, type: 3}
+      propertyPath: m_enableAutoSizing
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5153499054727755171, guid: cfbb67eee73ad4b91bf987de26751659, type: 3}
+      propertyPath: m_enableWordWrapping
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5576202519566661183, guid: cfbb67eee73ad4b91bf987de26751659, type: 3}
       propertyPath: m_Name
       value: Button (1)
@@ -2974,6 +3034,26 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4553947945773634391, guid: cfbb67eee73ad4b91bf987de26751659, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5153499054727755171, guid: cfbb67eee73ad4b91bf987de26751659, type: 3}
+      propertyPath: m_fontSize
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 5153499054727755171, guid: cfbb67eee73ad4b91bf987de26751659, type: 3}
+      propertyPath: m_fontSizeMax
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 5153499054727755171, guid: cfbb67eee73ad4b91bf987de26751659, type: 3}
+      propertyPath: m_fontSizeMin
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5153499054727755171, guid: cfbb67eee73ad4b91bf987de26751659, type: 3}
+      propertyPath: m_enableAutoSizing
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5153499054727755171, guid: cfbb67eee73ad4b91bf987de26751659, type: 3}
+      propertyPath: m_enableWordWrapping
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5576202519566661183, guid: cfbb67eee73ad4b91bf987de26751659, type: 3}
